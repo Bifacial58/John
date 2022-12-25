@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da101be3-2667-4c13-9abc-84baaba165f6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IY92B7nZGShyeruqP7blNev4RK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/John/fonts&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\John\fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da101be3-2667-4c13-9abc-84baaba165f6" name="Changes" comment="" />
+      <created>1670347440425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670347440425</updated>
+      <workItem from="1670347443666" duration="31000" />
+      <workItem from="1670347478827" duration="6781000" />
+      <workItem from="1670364882032" duration="6000" />
+      <workItem from="1670452914470" duration="5424000" />
+      <workItem from="1670508896900" duration="464000" />
+      <workItem from="1670521036479" duration="20000" />
+      <workItem from="1670521135981" duration="3125000" />
+      <workItem from="1670531743079" duration="1055000" />
+      <workItem from="1670538841874" duration="355000" />
+      <workItem from="1670539229078" duration="34000" />
+      <workItem from="1670608101778" duration="61000" />
+      <workItem from="1670696514019" duration="7999000" />
+      <workItem from="1670720297790" duration="459000" />
+      <workItem from="1670720776035" duration="623000" />
+      <workItem from="1670844051959" duration="50000" />
+      <workItem from="1670855374391" duration="1059000" />
+      <workItem from="1670862820113" duration="115000" />
+      <workItem from="1671038838643" duration="10308000" />
+      <workItem from="1671461890327" duration="12082000" />
+      <workItem from="1671540311133" duration="4187000" />
+      <workItem from="1671547206701" duration="876000" />
+      <workItem from="1671559025076" duration="13000" />
+      <workItem from="1671976209995" duration="764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
